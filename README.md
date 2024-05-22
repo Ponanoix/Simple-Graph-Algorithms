@@ -27,15 +27,25 @@ The data file needs to be written in the following format:
 For example:
 
 10 7
+
 0 1 4
+
 0 3 8
+
 1 2 8
+
 1 3 11
+
 2 4 2
+
 2 5 4
+
 3 4 7
+
 3 6 8
+
 4 6 6
+
 5 6 2
 
 The program is also capable of generating a random graph
